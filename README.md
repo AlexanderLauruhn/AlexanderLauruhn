@@ -4,6 +4,7 @@
 * Java
 * C, C++
 * Python
+* SQL
 
 ---
 
