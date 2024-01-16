@@ -12,8 +12,6 @@
 
 * HTML, CSS
 * JavaScript
-* JSON, NodeJS
 * C#
-* Assembler
 
 ---
