@@ -8,10 +8,10 @@
 
 ---
 
-### Languages I got in touch with
+### Further experiences
 
 * HTML, CSS
-* JavaScript
+* openCV
 * C#
 
 ---
