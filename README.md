@@ -2,7 +2,8 @@
 ### Major Experiences
 
 * Java
-* C, C++
+* c#
+* C and C++
 * Python
 * SQL
 
@@ -12,6 +13,6 @@
 
 * HTML, CSS
 * openCV
-* C#
+* tensorflow and keras
 
 ---
