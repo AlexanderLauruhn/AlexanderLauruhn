@@ -2,7 +2,7 @@
 ### Major Experiences
 
 * Java
-* c#
+* C#
 * C and C++
 * Python
 * SQL
